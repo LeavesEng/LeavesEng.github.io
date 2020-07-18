@@ -6,6 +6,6 @@ function start(){
 
 
 function rodaperender(){
-    var element = document.getElementById('#rodape');
-    element.innerHTML = '<b>Hello World!</b>'
+    var rodapediv = document.querySelector('#rodape');
+    rodapediv.innerHTML = '<b>Hello World!</b>';
 }
