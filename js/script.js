@@ -89,10 +89,10 @@ function rodaperender(){
         <div class="footer-middle wow fadeInDown Big animated animated" data-wow-delay="0.4s">
             <div class="bottom-menu">
                 <ul>
-                       <li><a href="index.php">Home</a></li><label>|</label>
-                    <li><a href="about.php">Quem Somos</a></li><label>|</label>
-                      <li><a href="services.php">Serviços</a></li><label>|</label>
-                       <li><a href="contact.php">Entre em contato</a></li>
+                       <li><a href="index.html">Home</a></li><label>|</label>
+                    <li><a href="about.html">Quem Somos</a></li><label>|</label>
+                      <li><a href="services.html">Serviços</a></li><label>|</label>
+                       <li><a href="contact.html">Entre em contato</a></li>
                 </ul>
             </div>
         </div>

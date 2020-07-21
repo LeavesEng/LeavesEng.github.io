@@ -841,7 +841,7 @@ a.b-home:hover{
 	-webkit-appearance:none;
 	outline:none;
 	color:#777;
-	min-height:320px;
+	min-height:150px;
 	resize:none;
 	transition:border-color 0.4s;
 	-webkit-transition:border-color 0.4s;
