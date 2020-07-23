@@ -39,7 +39,7 @@ body{
 .header {
   background: url("../images/banner.jpg")no-repeat 0px 0px;
   background-size:cover;
-  min-height: 790px;
+  min-height: 500px;
   text-align: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -51,10 +51,8 @@ body{
   background: rgba(0, 0, 0, 0.41);
 }
 .logo {
-  border-top: 5px solid#fff;
-  border-bottom: 5px solid#fff;
   width: 100%;
-  margin: 15em auto 0;
+  margin: 9em auto 0;
 }
 .logo a {
   font-size: 5em;
@@ -172,7 +170,7 @@ span.menu {
   -ms-transition: .5s all;
 }
 .about-section {
-  padding: 15em 0 4em;
+  padding: 3em 0 4em;
   background:#eee;
 }
 .about-img img {
